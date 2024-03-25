@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ichbinsaber
 - 👀 I’m interested in Home Assistant
 - 🌱 I’m currently learning how github works
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Unfortunately my account has been marked as spam, so I can't use HACS.
+- 💞️ so I am looking for help
 
 
 <!---
